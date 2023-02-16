@@ -7,7 +7,7 @@ require './snake'
 
 WIN_WIDTH = 600
 WIN_HEIGHT = 600
-SCALE = 10
+SCALE = 15
 PADDING = 5
 FPS = 10
 
